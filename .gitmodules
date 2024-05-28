@@ -6,7 +6,7 @@
 	path = 3enRaya
 	url = https://github.com/Nestorbd/AR-3EnRaya.git
 
-[submodule "AR-Cartpole"]
+[submodule "Cartpole"]
 	path = Cartpole
 	url = https://github.com/Nestorbd/AR-Cartpole.git
 
