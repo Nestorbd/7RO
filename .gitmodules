@@ -1,0 +1,35 @@
+[submodule "RNN"]
+	path = RNN
+	url = https://github.com/Nestorbd/RNN-Trafalgar.git
+
+[submodule "3enRaya"]
+	path = 3enRaya
+	url = https://github.com/Nestorbd/AR-3EnRaya.git
+
+[submodule "AR-Cartpole"]
+	path = Cartpole
+	url = https://github.com/Nestorbd/AR-Cartpole.git
+
+[submodule "chess"]
+	path = chess
+	url = https://github.com/Nestorbd/Red-Neuronal-Conv-Chess.git
+
+[submodule "R"]
+	path = R
+	url = https://github.com/Nestorbd/R.git
+
+[submodule "SVM"]
+	path = SVM
+	url = https://github.com/Nestorbd/SVM.git
+
+[submodule "TensorflowJS"]
+	path = TensorflowJS
+	url = https://github.com/Nestorbd/TensorflowJS.git
+
+[submodule "Word2Vec"]
+	path = Word2Vec
+	url = https://github.com/Nestorbd/Word2Vec.git
+
+[submodule "YOLO"]
+	path = YOLO
+	url = https://github.com/Nestorbd/YOLO.git
